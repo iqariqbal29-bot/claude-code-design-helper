@@ -175,4 +175,4 @@ A: Claude Code Design AI is a legitimate development tool — it does not modify
 **Q: How often is the tool updated?**  
 A: The community pushes updates roughly every 2–4 weeks, depending on model API changes, feature requests, and bug reports. We follow semantic versioning — check the [Releases](../../releases) page for the latest.
 
-**Q: The executable fails to start — what should I
+**Q: The executable fails to start — what should I‏
